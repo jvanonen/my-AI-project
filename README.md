@@ -1,7 +1,7 @@
 # my-AI-project
 Building AI course project
 
-1.Idea in a nutshell: Movie recommendator: A customizable movie recommendation tool that explains its suggestions based on user reviews and ratings
+1. Idea in a nutshell: Movie recommendator: A customizable movie recommendation tool that explains its suggestions based on user reviews and ratings
 
 2. Background: I want better movie recommendations. Current streaming services use algorithms, which hide their decision logic and their use every day extra time trying to decide what to watch. This algoritm would help that me and others could watch more diverse and interesting movies.
 
